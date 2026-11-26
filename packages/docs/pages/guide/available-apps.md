@@ -19,6 +19,7 @@ The following integrations are currently supported by Automatisch.
 - [Disqus](/apps/disqus/triggers)
 - [Dropbox](/apps/dropbox/actions)
 - [Eventbrite](/apps/eventbrite/triggers)
+- [Famulor](/apps/famulor/actions)
 - [Filter](/apps/filter/actions)
 - [Firefly III](/apps/firefly-iii/triggers)
 - [Flickr](/apps/flickr/triggers)
