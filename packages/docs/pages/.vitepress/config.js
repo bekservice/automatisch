@@ -206,6 +206,16 @@ export default async () => {
             ],
           },
           {
+            text: 'Famulor',
+            collapsible: true,
+            collapsed: true,
+            items: [
+              { text: 'Actions', link: '/apps/famulor/actions' },
+              { text: 'Triggers', link: '/apps/famulor/triggers' },
+              { text: 'Connection', link: '/apps/famulor/connection' },
+            ],
+          },
+          {
             text: 'Filter',
             collapsible: true,
             collapsed: true,
